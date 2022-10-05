@@ -1,3 +1,6 @@
+
+Desafio como ejercicio para mantenerme  en forma y aprendiento!
+
 # Frontend Mentor - Advice generator app
 
 ![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
